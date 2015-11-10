@@ -1,0 +1,12 @@
+{
+  "AppSettings": {
+    "SiteTitle": "OneScore",
+    "FootballDataApiKey": "2ad2b2de2dcc41efab73b22bcff1e52d",
+    "FootballDataApiUrl": "http://api.football-data.org/"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-OneScore-1765dc31-6ec7-4562-a5f4-0f0dbe5433f0;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
